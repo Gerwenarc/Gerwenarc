@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 💞️ I’m looking to collaborate on real-world web apps, capstone systems, or projects that help streamline daily tasks using smart solutions.
 
-📫 Reach me here or via email: gerwenarcega23@gmail.com 
+📫 Reach me here or via email: arcegagerwen23@gmail.com 
 
 😄 Pronouns: He/Him
 
