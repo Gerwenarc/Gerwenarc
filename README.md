@@ -18,10 +18,10 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________
 
 
-🚀 Languages and Tools
+<h3>🚀 Languages and Tools</h3>
 
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 15px;"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right: 15px;"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 15px;"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 15px;"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 15px;"/> </p>
 ____________________________________________________________________________________________________________________
 
-⚡️ Where to find me
+<h3>⚡️ Where to find me</h3>
 <p align="left"> <a href="https://www.facebook.com/gerwen.arcega.2024" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> &nbsp;&nbsp; <a href="https://www.threads.com/@gerw_arc?" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p>
