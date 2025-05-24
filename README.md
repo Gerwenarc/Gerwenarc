@@ -15,8 +15,7 @@ ________________________________________________________________________________
 
 ⚡ Fun fact: I love turning creative ideas into working code—and I get way too excited when I finally fix a stubborn bug 😄
 
+__________________________________________________________________________________________________________________
 🚀 Languages and Tools I Use
-
-
 
 HTML5, CSS3, JavaScript, TypeScript, React
